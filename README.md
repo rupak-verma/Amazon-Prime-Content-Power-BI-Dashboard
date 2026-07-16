@@ -31,5 +31,5 @@ The goal of the dashboard was to analyze all shows available on Amazon Prime Vid
 - Acquire more content from Great Britain, France and Japan apart from the US.
 - IMDb votes should be in the consideration while acquiring the the Titles. Higher the votes, higher the ratings, Higher the viewership.
 
-# Dashboard 
+# Dashboard Preview
 ![Dashboard Preview](https://github.com/rupak-verma/Amazon-Prime-Content-Power-BI-Dashboard/blob/main/PowerBI%20Snapshot.png)
