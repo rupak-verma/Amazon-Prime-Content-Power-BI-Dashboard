@@ -22,7 +22,13 @@ The goal of the dashboard was to analyze all shows available on Amazon Prime Vid
 - Content portfolio is Movie dominant (87.22%).
 - Strong surge of content acquisiton after the year 2000.
 - More than 50 percent of the content coming from the US.
+- US is followed by India, Great Britain, Canada and France. But more quality content coming from Great Britain and France.
 - Higher Vote counts means higher Ratings.
 - Drama, Comedy, Thriller and Action are the top genres.
 
-# Business Recommendation
+## Business Recommendations
+- Acquire more TV Shows to make content portfolio more diverse.
+- Acquire more content from Great Britain, France and Japan apart from the US.
+- IMDb votes should be in the consideration while acquiring the the Titles. Higher the votes, higher the ratings, Higher the viewership.
+
+# Dashboard 
