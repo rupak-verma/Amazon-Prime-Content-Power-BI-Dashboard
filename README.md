@@ -32,4 +32,4 @@ The goal of the dashboard was to analyze all shows available on Amazon Prime Vid
 - IMDb votes should be in the consideration while acquiring the the Titles. Higher the votes, higher the ratings, Higher the viewership.
 
 # Dashboard 
-! [Dashboard Preview] (https://github.com/rupak-verma/Amazon-Prime-Content-Power-BI-Dashboard/blob/main/PowerBI%20Snapshot.png)
+![Dashboard Preview](https://github.com/rupak-verma/Amazon-Prime-Content-Power-BI-Dashboard/blob/main/PowerBI%20Snapshot.png)
